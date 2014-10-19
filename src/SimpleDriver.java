@@ -409,7 +409,7 @@ public class SimpleDriver
 	{
 		if ((h%4 == 0 || s%4 == 0 || f%4 == 0 || c%4 == 0) && count == 4)
 		{
-			bugger.printWins(h, s, f, c);
+			//bugger.printWins(h, s, f, c);
 			return true;
 		}
 		
